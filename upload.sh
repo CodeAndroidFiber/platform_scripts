@@ -1,5 +1,5 @@
 #!/bin/bash
-paths=('external/aac' 'external/flac' 'system/core' 'system/bt' 'frameworks/native' 'external/wpa_supplicant_8' 'frameworks/av' 'external/conscrypt' 'external/boringssl' 'frameworks/base' 'packages/apps/UnifiedEmail' 'packages/apps/Email')
+paths=('frameworks/av' 'external/libvpx' 'hardware/qcom/media' 'system/core' 'frameworks/native' 'frameworks/base' 'packages/apps/PackageInstaller')
 upload_url=git@github.com:CodeAndroidFiber/platform_
 remote_branch=oneplusX/6.0.1
 build_root=/home/olddroid/android/mm
